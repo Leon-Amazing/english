@@ -1,6 +1,6 @@
 module.exports = {
   // 站点配置
-  base: "/English/",
+  base: "/english/",
   lang: "zh-CN",
   title: "English",
   description: "Leon's library",

@@ -166,3 +166,8 @@ a computer program that is designed to teach you how to use another program
 
 1. to choose someone or something for a particular job or purpose
 2. to represent or refer to something using a particular sign, name etc
+
+### 30.sanctuary /ˈsæŋktʃuəri, -tʃəri $ -tʃueri/ 
+
+1. [countable] an area for birds or animals where they are protected and cannot be hunted **SYN refuge**
+2. [countable, uncountable] a peaceful place that is safe and provides protection, especially for people who are in danger **SYN refuge**

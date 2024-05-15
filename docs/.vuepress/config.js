@@ -1,24 +1,28 @@
 module.exports = {
   // 站点配置
-  base: "/english/",
-  lang: "zh-CN",
-  title: "English",
+  base: '/english/',
+  lang: 'zh-CN',
+  title: 'ENGLISH',
   description: "Leon's library",
-  head: [["link", { rel: "icon", href: "logo.png" }]],
+  head: [['link', { rel: 'icon', href: 'logo.png' }]],
 
   // 主题和它的配置
-  theme: "@vuepress/theme-default",
+  theme: '@vuepress/theme-default',
   themeConfig: {
-    logo: "logo.png",
+    logo: 'logo.png',
     // 导航
     navbar: [
       {
-        text: "NEW CONCEPT ENGLISH",
-        link: "/English/new-concept-english.md",
+        text: 'WORDS',
+        link: '/words.md',
       },
       {
-        text: "WORDS",
-        link: "/English/words.md",
+        text: 'NEW CONCEPT',
+        link: '/new-concept.md',
+      },
+      {
+        text: 'IELTS',
+        link: '/IELTS.md',
       },
     ],
   },
@@ -26,14 +30,14 @@ module.exports = {
   // plugins
   plugins: [
     [
-      "@vuepress/plugin-search",
+      '@vuepress/plugin-search',
       {
         locales: {
-          "/": {
-            placeholder: "Search",
+          '/': {
+            placeholder: 'Search',
           },
-          "/zh/": {
-            placeholder: "搜索",
+          '/zh/': {
+            placeholder: '搜索',
           },
         },
       },

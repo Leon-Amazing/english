@@ -167,7 +167,25 @@ a computer program that is designed to teach you how to use another program
 1. to choose someone or something for a particular job or purpose
 2. to represent or refer to something using a particular sign, name etc
 
-### 30.sanctuary /ˈsæŋktʃuəri, -tʃəri $ -tʃueri/ 
+### 30.sanctuary /ˈsæŋktʃuəri, -tʃəri $ -tʃueri/
 
 1. [countable] an area for birds or animals where they are protected and cannot be hunted **SYN refuge**
 2. [countable, uncountable] a peaceful place that is safe and provides protection, especially for people who are in danger **SYN refuge**
+
+### 31.figure /ˈfɪɡə $ ˈfɪɡjər/
+
+1. a number representing an amount, especially an official number
+2. a particular amount of money
+3. someone who is important or famous in some way
+4. the shape of a woman’s body
+5. action figure
+
+### 32.immensely /ɪˈmensli/
+
+very much **SYN extremely**
+
+In my city, there's a coffee shop that is immensely popular among locals
+
+### 33.inviting /ɪnˈvaɪtɪŋ/
+
+something that is inviting is very attractive and makes you want to be near it, try it, taste it etc

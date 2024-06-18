@@ -142,7 +142,7 @@ a computer program that is designed to teach you how to use another program
 
 ### 25.stalk /stɔːk $ stɒːk/
 
-1. Image of stalka long narrow part of a plant that supports leaves, fruits, or flowers
+1. a long narrow part of a plant that supports leaves, fruits, or flowers
 2. to follow a person or animal quietly in order to catch and attack or kill them  
    **I felt like the ad was stalking me, which made me feel very uncomfortable**
 
@@ -195,6 +195,10 @@ something that is inviting is very attractive and makes you want to be near it, 
 1. able to continue without causing damage to the environment
 2. able to continue for a long time
 
+Understanding geography can also enhance our awareness of global issues and promote a more sustainable lifestyle
+
 ### 35.distinct /dɪˈstɪŋkt/
 
 1. clearly different or belonging to a different type
+
+We have four distinct seasons with warm summers and cold winters, but nothing too extreme.

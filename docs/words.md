@@ -189,3 +189,12 @@ In my city, there's a coffee shop that is immensely popular among locals
 ### 33.inviting /ɪnˈvaɪtɪŋ/
 
 something that is inviting is very attractive and makes you want to be near it, try it, taste it etc
+
+### 34.sustainable /səˈsteɪnəbəl/
+
+1. able to continue without causing damage to the environment
+2. able to continue for a long time
+
+### 35.distinct /dɪˈstɪŋkt/
+
+1. clearly different or belonging to a different type

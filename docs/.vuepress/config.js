@@ -13,6 +13,10 @@ module.exports = {
     // 导航
     navbar: [
       {
+        text: 'YouTube',
+        link: '/youtube.md',
+      },
+      {
         text: 'WORDS',
         link: '/words.md',
       },

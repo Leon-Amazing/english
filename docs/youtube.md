@@ -28,7 +28,7 @@
 1. The table wobbles because one leg is shorter.（桌子因为一条腿较短而摇晃。）
 2. I wobbled a little when I got off the boat.（我下船时有点站不稳。）
 
-### 7.pamphlet /ˈpæmflɪt/ 小册子（常包含有关某一主题的信息、宣传资料等）
+### 7.pamphlet /ˈpæmflət/ 小册子（常包含有关某一主题的信息、宣传资料等）
 
 1. They handed out pamphlets about environmental protection.（他们分发关于环境保护的小册子。）
 2. I read a pamphlet about the new product.（我读了一本关于新产品的小册子。）
@@ -41,7 +41,7 @@
 ### 9.motion sickness /ˈməʊʃən $ ˈmoʊ-/ 晕动病，车病
 
 1. She always gets motion sickness when she travels by car.（她每次坐车都会晕车。）
-2. ：Taking some medicine can help relieve motion sickness.（吃些药可以帮助缓解晕动病。）
+2. Taking some medicine can help relieve motion sickness.（吃些药可以帮助缓解晕动病。）
 
 ### 10.layover /ˈleɪəʊvə $ -oʊvər/ 转机停留
 
@@ -82,3 +82,13 @@
 
 1. Mice and squirrels are common rodents.（老鼠和松鼠是常见的啮齿动物。）
 2. The capybara is a large rodent.（水豚是一种大型啮齿动物。）
+
+### 18.instant /ˈɪnstənt/ adj. 瞬间的，立即的；n. 瞬间，刹那
+
+1. The news spread in an instant.（这条消息瞬间就传开了。）
+2. He got an instant response from the customer service team.（他立即收到了客服团队的回复。）
+
+### 19.leash /liːʃ/ 狗绳，牵引绳
+
+1. Please keep your dog on a leash in the park.（请在公园里用狗绳牵着狗。）
+2. He held the leash tightly when the dog started to run.（当狗开始跑时，他紧紧地拽住狗绳。）

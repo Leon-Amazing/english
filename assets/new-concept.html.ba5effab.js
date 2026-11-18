@@ -1,0 +1,1 @@
+const e={key:"v-39bd0777",path:"/new-concept.html",title:"NEW CONCEPT ENGLISH",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"Lesson1 A puma at large",slug:"lesson1-a-puma-at-large",children:[]}],git:{updatedTime:1715764233e3,contributors:[{name:"wangdouliang",email:"wangdouliang@zzltop.com",commits:1}]},filePathRelative:"new-concept.md"};export{e as data};
